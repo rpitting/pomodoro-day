@@ -3,7 +3,7 @@
 //  pomodoro-day
 //  
 //  Created by Reiner Pittinger on 16.12.25
-//  Copyright © 2025 ___ORGANIZATIONNAME___. All rights reserved.
+//  Copyright © 2025 digital wave. All rights reserved.
     
 
 import Testing

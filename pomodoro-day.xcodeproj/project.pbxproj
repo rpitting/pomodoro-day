@@ -140,6 +140,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2610;
 				LastUpgradeCheck = 2610;
+				ORGANIZATIONNAME = "digital wave";
 				TargetAttributes = {
 					55D048602EF1703F00C044C0 = {
 						CreatedOnToolsVersion = 26.1;
