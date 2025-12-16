@@ -19,6 +19,7 @@
 /* Begin PBXFileReference section */
 		55D048612EF1703F00C044C0 /* pomodoro-day.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pomodoro-day.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55D048722EF1704000C044C0 /* pomodoro-dayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "pomodoro-dayTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		55D048A32EF1754500C044C0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -68,6 +69,7 @@
 		55D048582EF1703F00C044C0 = {
 			isa = PBXGroup;
 			children = (
+				55D048A32EF1754500C044C0 /* README.md */,
 				55D048632EF1703F00C044C0 /* pomodoro-day */,
 				55D048752EF1704000C044C0 /* pomodoro-dayTests */,
 				55D048622EF1703F00C044C0 /* Products */,
